@@ -9,5 +9,5 @@
 ![5th section](/images/nhct.io_07_2.png)
 ![5th section](/images/nhct.io_07_3.png)
 ![5th section](/images/nhct.io_07_4.png)
-![5th section](/images/nhct.io_08.png)
+![5th section](/images/nhct.io_081.png)
 ![5th section](/images/nhct.io_09.png)
