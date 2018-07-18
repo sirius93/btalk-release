@@ -14,6 +14,7 @@
 ![5th section](/images/nhct.io_081.png)
 ![5th section](/images/nhct.io_09.png)
 ![6th section](/images/ourTeam.png)
+[![6th sectionA](/images/teamMember1.png)](https://www.linkedin.com/in/manishranjan2/) [![6th sectionB](/images/teamMember2.png)](https://www.linkedin.com/in/nagav/) [![6th sectionC](/images/teamMember3.png)](https://www.linkedin.com/in/praveen-dwarakanath-0bb7505/)
 ![7th section](/images/ourAdvisors.png)
 <p align="center">
   <a href="https://t.me/Nanohealth"><img src="/images/telegram.png"></a> <a href="https://medium.com/nhct-nanohealth-care-token"> <img src="/images/medium.png"></a> <a href="https://twitter.com/NanoHealth1"><img src="/images/twitter.png"></a>
