@@ -15,7 +15,7 @@
 ![5th section](/images/nhct.io_07_4.png)
 ![5th section](/images/nhctio11.jpg)
 ![6th section](/images/ourTeam.png)
-[![6th sectionA](/images/member1.png)](https://www.linkedin.com/in/manishranjan2/) [![6th sectionB](/images/member2.png)](https://www.linkedin.com/in/nagav/) [![6th sectionC](/images/member3.png)](https://www.linkedin.com/in/praveen-dwarakanath-0bb7505/)
+[![6th sectionA](/images/member1.png)](https://www.linkedin.com/in/manishranjan2/)&nbsp;&nbsp;&nbsp;&nbsp; [![6th sectionB](/images/member2.png)](https://www.linkedin.com/in/nagav/)&nbsp;&nbsp;&nbsp;&nbsp; [![6th sectionC](/images/member3.png)](https://www.linkedin.com/in/praveen-dwarakanath-0bb7505/)
 ![7th section](/images/ourAdvisors.png)
 <p align="center">
   <a href="https://t.me/Nanohealth"><img src="/images/telegram.png"></a> <a href="https://medium.com/nhct-nanohealth-care-token"> <img src="/images/medium.png"></a> <a href="https://twitter.com/NanoHealth1"><img src="/images/twitter.png"></a>
