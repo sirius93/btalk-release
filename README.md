@@ -13,6 +13,8 @@
 ![5th section](/images/nhct.io_07_4.png)
 ![5th section](/images/nhct.io_081.png)
 ![5th section](/images/nhct.io_09.png)
+![6th section](/images/ourTeam.png)
+![7th section](/images/ourAdvisors.png)
 <p align="center">
   <a href="https://t.me/Nanohealth"><img src="/images/telegram.png"></a> <a href="https://medium.com/nhct-nanohealth-care-token"> <img src="/images/medium.png"></a> <a href="https://twitter.com/NanoHealth1"><img src="/images/twitter.png"></a>
 </p>
