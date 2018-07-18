@@ -2,9 +2,9 @@
 
 ![1st section](/images/nhct.io_01.png)
 ![1st section](/images/nhct.io_pressRelease.png)
-<div>
+<p>
     <a href="http://www.fundamatics.net/the-nanohealth-story-a-new-way-to-look-at-your-health/"><img src="/images/fundamatics.png" align = "left"></a> <a href="https://www.financialexpress.com/industry/nanohealths-doc-in-a-bag-breaks-economic-barriers/108240/"><img src="/images/financialexpress.png" align="center"></a> <a href="http://www.pharmabiz.com/NewsDetails.aspx?aid=84336&sid=1"><img src="/images/pharmabiz(1).jpg" align="right"></a>
-</div>
+</p>
 ![2nd section](/images/nhct.io_02.png)
 ![3rd section](/images/nhct.io_03.png)
 ![4th section](/images/nhct.io_04.png)
