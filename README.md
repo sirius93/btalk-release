@@ -8,7 +8,6 @@
   <a href="https://www.financialexpress.com/industry/nanohealths-doc-in-a-bag-breaks-economic-barriers/108240/"><img style="margin:50px 20px" src="/images/financialexpress.png"></a>
   <a href="http://www.pharmabiz.com/NewsDetails.aspx?aid=84336&sid=1"><img style="margin:50px 20px" src="/images/pharmabiz(1).jpg"></a>
 </p-->
-
 ![2nd section](/images/nhct.io_02.png)
 ![3rd section](/images/nhct.io_03.png)
 ![4th section](/images/nhct.io_04.png)
@@ -19,6 +18,10 @@
 ![5th section](/images/nhct.io_07_4.png)
 ![5th section](/images/nhct.io_081.png)
 ![5th section](/images/nhct.io_09.png)
+![5th section](/images/nhct.io_11.png)
+![5th section](/images/nhct.io_12.png)
+![5th section](/images/nhct.io_13.png)
+![5th section](/images/nhct.io_14.png)
 ![6th section](/images/ourTeam.png)
 [![6th sectionA](/images/teamMember1.png)](https://www.linkedin.com/in/manishranjan2/) [![6th sectionB](/images/teamMember2.png)](https://www.linkedin.com/in/nagav/) [![6th sectionC](/images/teamMember3.png)](https://www.linkedin.com/in/praveen-dwarakanath-0bb7505/)
 ![7th section](/images/ourAdvisors.png)
