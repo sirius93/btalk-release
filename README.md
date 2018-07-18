@@ -13,4 +13,4 @@
 ![5th section](/images/nhct.io_07_4.png)
 ![5th section](/images/nhct.io_081.png)
 ![5th section](/images/nhct.io_09.png)
-[![6th sectionA](/images/telegram.png)](https://t.me/Nanohealth)[![6th sectionB](/images/medium.png)](https://medium.com/nhct-nanohealth-care-token)[![6th sectionC](/images/twitter.png)](https://twitter.com/NanoHealth1)
+<span style="display:block; text-align:center">[![6th sectionA](/images/telegram.png)](https://t.me/Nanohealth)[![6th sectionB](/images/medium.png)](https://medium.com/nhct-nanohealth-care-token)[![6th sectionC](/images/twitter.png)](https://twitter.com/NanoHealth1)</span>
