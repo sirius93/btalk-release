@@ -1,6 +1,7 @@
 # btalk-release
 
 ![1st section](/images/nhct.io_01.png)
+![1st section](/images/nhct.io_pressRelease.png)
 ![2nd section](/images/nhct.io_02.png)
 ![3rd section](/images/nhct.io_03.png)
 ![4th section](/images/nhct.io_04.png)
