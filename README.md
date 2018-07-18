@@ -2,7 +2,7 @@
 
 ![1st section](/images/nhct.io_01.png)
 ![1st section](/images/nhct.io_pressRelease.png)
-[![1st sectionA](/images/fundamatics.svg)](http://www.fundamatics.net/the-nanohealth-story-a-new-way-to-look-at-your-health/)[![1st sectionB](/images/financialexpress.png)](https://www.financialexpress.com/industry/nanohealths-doc-in-a-bag-breaks-economic-barriers/108240/)[![1st sectionC](/images/pharmabiz.92947410.jpg)](http://www.pharmabiz.com/NewsDetails.aspx?aid=84336&sid=1)
+[![1st sectionA](/images/fundamatics.png)](http://www.fundamatics.net/the-nanohealth-story-a-new-way-to-look-at-your-health/)[![1st sectionB](/images/financialexpress.png)](https://www.financialexpress.com/industry/nanohealths-doc-in-a-bag-breaks-economic-barriers/108240/)[![1st sectionC](/images/pharmabiz(1).jpg)](http://www.pharmabiz.com/NewsDetails.aspx?aid=84336&sid=1)
 ![2nd section](/images/nhct.io_02.png)
 ![3rd section](/images/nhct.io_03.png)
 ![4th section](/images/nhct.io_04.png)
