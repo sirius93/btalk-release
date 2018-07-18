@@ -2,7 +2,7 @@
 
 ![1st section](/images/nhct.io_01.png)
 ![1st section](/images/nhct.io_pressRelease.png)
-![1st section](/images/nhct.io_fundamatics.png)(http://www.fundamatics.net/the-nanohealth-story-a-new-way-to-look-at-your-health/)
+![1st section](/images/nhct.io_fundamatics.svg)(http://www.fundamatics.net/the-nanohealth-story-a-new-way-to-look-at-your-health/)
 ![2nd section](/images/nhct.io_02.png)
 ![3rd section](/images/nhct.io_03.png)
 ![4th section](/images/nhct.io_04.png)
