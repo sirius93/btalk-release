@@ -2,6 +2,10 @@
 
 ![1st section](/images/nhct.io_01.png)
 ![1st section](/images/nhct.io_pressRelease.png)
+<p align="center">
+  <a href="http://www.fundamatics.net/the-nanohealth-story-a-new-way-to-look-at-your-health/"><img src="/images/fundamatics.png"></a> <a href="https://www.thehindubusinessline.com/news/national/nanohealth-gvk-bio-to-take-healthcare-to-slum-dwellers/article23111584.ece"> <img src="/images/businessLines.png"></a> <a href="https://www.financialexpress.com/industry/nanohealths-doc-in-a-bag-breaks-economic-barriers/108240/"><img src="/images/financialexpress.png"></a>
+  <a href="http://www.pharmabiz.com/NewsDetails.aspx?aid=84336&sid=1"><img src="/images/pharmabiz(1).jpg"></a>
+</p>
 [![1st sectionA](/images/fundamatics.png)](http://www.fundamatics.net/the-nanohealth-story-a-new-way-to-look-at-your-health/)              [![1st sectionB](/images/businessLines.png)](https://www.thehindubusinessline.com/news/national/nanohealth-gvk-bio-to-take-healthcare-to-slum-dwellers/article23111584.ece) 
              [![1st sectionC](/images/financialexpress.png)](https://www.financialexpress.com/industry/nanohealths-doc-in-a-bag-breaks-economic-barriers/108240/)
              [![1st sectionD](/images/pharmabiz(1).jpg)](http://www.pharmabiz.com/NewsDetails.aspx?aid=84336&sid=1)
