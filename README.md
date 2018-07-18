@@ -23,10 +23,7 @@
 ![5th section](/images/nhct.io_07_4.png)
 ![5th section](/images/nhct.io_081.png)
 ![5th section](/images/nhct.io_09.png)
-![5th section](/images/nhct.io_11.png)
-![5th section](/images/nhct.io_12.png)
-![5th section](/images/nhct.io_13.png)
-![5th section](/images/nhct.io_14.png)
+![5th section](/images/nhctio11.jpg)
 ![6th section](/images/ourTeam.png)
 ![7th section](/images/ourAdvisors.png)
 <p align="center">
