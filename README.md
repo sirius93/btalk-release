@@ -1,4 +1,4 @@
-# btalk-release
+<--!# btalk-release
 
 ![1st section](/images/nhct.io_01.png)
 ![1st section](/images/nhct.io_pressRelease.png)
@@ -20,4 +20,4 @@
 ![7th section](/images/ourAdvisorsWIthMem.png)
 <p align="center">
   <a href="https://t.me/Nanohealth"><img src="/images/telegram.png"></a> <a href="https://medium.com/nhct-nanohealth-care-token"> <img src="/images/medium.png"></a> <a href="https://twitter.com/NanoHealth1"><img src="/images/twitter.png"></a>
-</p>
+</p--!>
